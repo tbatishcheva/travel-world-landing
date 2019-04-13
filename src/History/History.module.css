@@ -1,0 +1,75 @@
+.history {
+    padding-top: 70px;
+    padding-left: 95px;
+}
+
+.title {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: normal;
+    letter-spacing: -2.50378px;
+    color: #34343F;
+}
+
+.textHistory {
+    color: #F89F4E;
+}
+
+.subtitle {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 22px;
+    letter-spacing: -1.04324px;
+    color: #34343F;
+    margin-top: 27px;
+}
+
+.mainText {
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: -0.782433px;
+    color: #34343F;
+    margin-top: 65px;
+    max-width: 514px;
+    max-height: 99px;
+}
+
+.info {
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: -0.782433px;
+    color: #34343F;
+    margin-top: 70px;
+    display: flex;
+    /*justify-content: center;*/
+}
+
+.infoWithText {
+    margin-top: 30px;
+}
+
+.infoWithPfoto {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.infoWithPfoto:nth-child(2) {
+    top: 50px;
+    right: 50px;
+}
+
+.infoWithPfoto:nth-child(3) {
+    top: 100px;
+    right: 100px;
+}

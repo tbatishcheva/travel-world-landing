@@ -1,0 +1,112 @@
+.content {
+    position: relative;
+    padding-top: 70px;
+    padding-left: 95px;
+}
+
+.title {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: normal;
+  letter-spacing: -2.50378px;
+  color: #F89F4E;
+}
+
+span {
+  color: #34343F;
+}
+
+.mainText {
+  padding-top: 15px;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 22px;
+  letter-spacing: -1.04324px;
+  color: #34343F;
+  margin-top: 27px;
+}
+
+.form {
+  padding-top: 25px;
+  display: flex;
+  align-items: center;
+  margin-top: 121px;
+  border: none;
+}
+
+.form input[type="submit"]{
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+  color: #F2F2F2;
+  min-width: 98px;
+  height: 46px;
+  background-color: #F89F4E;
+  margin-left: 14px;
+}
+
+.form input[type="text"] {
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 26px;
+  /*text-align: center;*/
+  letter-spacing: 0.21px;
+  color: #34343F;
+  height: 40px;
+  width: 282px;
+}
+
+.contacts {
+  padding-top: 100px;
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.782433px;
+  color: #34343F;
+  margin-top: 100px;
+}
+
+.button {
+  position: absolute;
+  bottom: 30px;
+  right: -155px;
+  background: #F89F4E;
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 26px;
+  letter-spacing: 0.21px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FAFAFA;
+}
+
+.destines {
+  text-decoration: none;
+  padding: 40px 5px 40px 40px;
+}
+
+.destines:visited {
+  color: #FAFAFA;
+}
+
+.image {
+  display: block;
+  padding-top: 37px;
+  padding-bottom: 35px;
+  padding-right: 40px;
+}

@@ -1,0 +1,19 @@
+.navigation {
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    list-style: none;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #34343F;
+}
+
+.navigation li {
+    margin-left: 20px;
+}
+
+.active {
+    font-weight: bold;
+}

@@ -1,0 +1,62 @@
+.product {
+    background-color: #FFFFFF;
+    margin-left: 38px;
+    margin-top: 95px;
+    width: 356px;
+}
+
+.product:first-child {
+    margin-left: 0px;
+}
+
+.price {
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: -1.30405px;
+
+    color: #34343F;
+
+}
+
+.description {
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -1.14757px;
+    color: #34343F;
+    padding-top: 16px;
+}
+
+.top {
+    padding: 22px 72px 30px;
+}
+
+.bottom {
+    position: relative;
+}
+
+.image {
+    width: 356px;
+    display: block;
+}
+
+.button {
+    position: absolute;
+    bottom: 0;
+    background-color: #F89F4E;
+    padding: 18px 70px;
+
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #F2F2F2;
+}

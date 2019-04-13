@@ -1,0 +1,15 @@
+.container {
+    position: relative;
+    background-color: #F8F8F8;
+}
+
+.play {
+    position: absolute;
+    align-self: center;
+}
+
+.image {
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+}

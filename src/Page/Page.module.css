@@ -1,0 +1,6 @@
+.page {
+    width: 100%;
+    display: flex;
+    background-color: #F8F8F8;
+    justify-content: space-between;
+}
